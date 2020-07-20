@@ -11,3 +11,5 @@
 “Talk is cheap. Show me the code.”
 
 ― Linus Torvalds
+
+![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=th3c0d3br34ker&show_icons=true)
