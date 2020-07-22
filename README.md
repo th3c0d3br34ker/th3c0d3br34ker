@@ -1,3 +1,4 @@
+<div style="background:#A9A9A9">
 ### Hi there, I am [Jainam](https://th3c0d3br34ker.github.io) 👋
 
 - 🔭 I’m currently working on NGO Ayuda's website and CP-Tracker.
@@ -14,3 +15,5 @@
 ― Linus Torvalds
 ```
 ![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=th3c0d3br34ker&show_icons=true&icon_color=000&title_color=000)
+
+</div>
