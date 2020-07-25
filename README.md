@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web developement.
 - 💬 Ask me about anything, anytime 😄 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_the_apollyon_/)
-- 😄 Pronouns: rider and provider 😌.
+- 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.  
 
 ```
