@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning ReactJS, MongoDB, Raspberry Pi and Machine Learning (Kaafi faila hua business hai) 
 - 👯 I’m looking to collaborate on web developement.
 - 💬 Ask me about anything, anytime 😄 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_the_apollyon_/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_the_apollyon_/) or [LinkedIn](https://www.linkedin.com/in/jainam-desai/)
+- 👨‍💻 Checkout my [Hackerrank](https://www.hackerrank.com/jainamd)
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.  
 
