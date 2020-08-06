@@ -19,9 +19,9 @@ jobs:
           TIMEZONE: Asia/Kolkata
 
   update-readme:
+    name: Update README Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with Metrics
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
