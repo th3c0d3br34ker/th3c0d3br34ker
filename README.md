@@ -21,7 +21,7 @@
 [![Jainam's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=th3c0d3br34ker&hide=c)](https://sourcerer.io/th3c0d3br34ker)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.6%20million%20Lines%20of%20code-blue)
 
