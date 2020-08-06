@@ -5,6 +5,7 @@ on:
       - master
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   update-gist:
     runs-on: ubuntu-latest
@@ -16,3 +17,23 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 4e9ef30d38da3d593f743012ae892540
           TIMEZONE: Asia/Kolkata
+
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with Metrics
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "Fale"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
