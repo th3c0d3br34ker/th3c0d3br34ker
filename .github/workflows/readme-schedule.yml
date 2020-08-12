@@ -10,7 +10,7 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: th3c0d3br34ker/github-readme-info@1.0.0
+      - uses: th3c0d3br34ker/github-readme-info@1.0.1
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           INPUT_TIMEZONE: "Asia/Kolkata"
