@@ -24,11 +24,7 @@
 
 ![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=th3c0d3br34ker&show_icons=true&icon_color=000&title_color=000)
 
-#### My 💖 languages
-
-[![Jainam's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=th3c0d3br34ker&hide=c)](https://sourcerer.io/th3c0d3br34ker)
-
-<!--START_SECTION:waka-->
+<!--START_SECTION:readme-info-->
 **From Hello World I have written 1.6 million Lines of Code ✍️**
 
 **✨ 216 people were here!**
@@ -64,4 +60,4 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:readme-info-->
