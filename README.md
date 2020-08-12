@@ -24,10 +24,10 @@
 
 ![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=th3c0d3br34ker&show_icons=true&icon_color=000&title_color=000)
 
-<!--START_SECTION:readme-info-->
-**From Hello World I have written 1.6 million Lines of Code ✍️**
 
 **✨ 226 people were here!**
+
+**🏆 531 Contributions in year 2020**
 
 **My 💖 languages Python** 
 
@@ -57,7 +57,3 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   19.72%
 
 ```
-🏆 531 Contributions in year 2020
-
-
-<!--END_SECTION:readme-info-->
