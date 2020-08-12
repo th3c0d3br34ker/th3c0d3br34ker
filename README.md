@@ -29,21 +29,39 @@
 [![Jainam's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=th3c0d3br34ker&hide=c)](https://sourcerer.io/th3c0d3br34ker)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
+**From Hello World I have written 1.6 million Lines of Code ✍️**
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20Lines%20of%20code-blue)
+**✨ 216 people were here!**
 
-**🐱 My GitHub Data** 
+**My 💖 languages Python** 
 
-> 🏆 504 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 0 Owned Private Repository 
- > 
+```text
+Python                   12 repos            █████████████░░░░░░░░░░░░   54.55% 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+📅 **I'm Most Productive on Mondays** 
+
+```text
+Monday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.19% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
+Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+Thursday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
+Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Saturday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93%
+
+```
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.15% 
+🌃 Evening    126 commits    █████████░░░░░░░░░░░░░░░░   37.28% 
+🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.71%
+
+```
 
 <!--END_SECTION:waka-->
