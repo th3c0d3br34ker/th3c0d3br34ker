@@ -1,4 +1,4 @@
-name: README Stats Update
+name: README Info Update
 
 on:
   schedule:
@@ -19,3 +19,4 @@ jobs:
           SHOW_DAILY_COMMIT: "True"
           SHOW_WEEKLY_COMMIT: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CONTRIBUTIONS: "True"
