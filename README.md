@@ -22,38 +22,22 @@
 ― Linus Torvalds
 ```
 
-![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=th3c0d3br34ker&show_icons=true&icon_color=000&title_color=000)
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
 
-**✨ 226 people were here!**
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
 
-**🏆 531 Contributions in year 2020**
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
-**My 💖 languages Python** 
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
-```text
-Python                   12 repos            █████████████░░░░░░░░░░░░   54.55% 
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-```
-📅 **I'm Most Productive on Wednesdays** 
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 
-```text
-Monday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   20.06% 
-Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Wednesday    76 commits     ██████░░░░░░░░░░░░░░░░░░░   23.82% 
-Thursday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
-```
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    59 commits  ███▍░░░░░░░░░░░░░░░░░  16.3%
-🌆 Daytime    85 commits  ████▉░░░░░░░░░░░░░░░░  23.4%
-🌃 Evening   148 commits  ████████▌░░░░░░░░░░░░░  40.8%
-🌙 Night      71 commits  ████░░░░░░░░░░░░░░░░░░   19.6%
-
-```
+> This README is auto-updated by [this](https://github.com/th3c0d3br34ker/github-readme-info) GitHub Action.
