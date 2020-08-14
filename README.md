@@ -23,21 +23,61 @@
 ```
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+**✨ 408 people were here!**
+
+
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 1.6 million Lines of Code ✍️**
+
+
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
+🏆 552 Contributions in year 2020
+
+
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
+🌆 Daytime    88 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+🌃 Evening    154 commits    ██████████░░░░░░░░░░░░░░░   41.18% 
+🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52%
+
+```
+
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Wednesdays** 
+
+```text
+Monday       65 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+Wednesday    83 commits     ██████░░░░░░░░░░░░░░░░░░░   24.27% 
+Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06%
+```
+
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages Python** 
+
+```text
+Python                   12 repos            █████████████░░░░░░░░░░░░   54.55% 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+```
+
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 > This README is auto-updated by [this](https://github.com/th3c0d3br34ker/github-readme-info) GitHub Action.
