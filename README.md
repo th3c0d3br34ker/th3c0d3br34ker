@@ -9,7 +9,7 @@
 
 </span>
 
-- 🔭 I’m currently working on [NGO Ayuda](https://www.instagram.com/ayuda.ngo/)'s website and CP-Tracker.
+- 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - 🌱 I’m currently learning ReactJS, MongoDB.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
