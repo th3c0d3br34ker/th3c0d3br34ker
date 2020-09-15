@@ -6,8 +6,11 @@
 [![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/jainamd)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://th3c0d3br34ker.github.io)
 
-
 </span>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
+ 
+<div>
 
 - 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - 🌱 I’m currently learning ReactJS, MongoDB.
@@ -15,12 +18,23 @@
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.
 
+</div>
 
-```
-“Talk is cheap. Show me the code.”
+**Frameworks and Stack**
 
-― Linus Torvalds
-```
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 73 people were here!**
