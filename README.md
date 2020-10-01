@@ -8,7 +8,7 @@
 
 </span>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
+<img src="./code.gif" align="right" alt="Coder GIF" width="300" height="280">
  
 <div>
 
