@@ -36,18 +36,6 @@
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 17 people were here!**
-
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 2.4 million Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
 <!--START_CONTRIBUTIONS:readme-info-->
 **🏆 859 Contributions in year 2020**
 
