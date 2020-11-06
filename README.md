@@ -37,7 +37,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 871 Contributions in year 2020**
+**🏆 872 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
