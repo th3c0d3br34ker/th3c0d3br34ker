@@ -37,7 +37,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 282 Contributions in year 2021**
+**🏆 283 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -60,9 +60,9 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |79 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.02%|
+|Monday                   |80 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.23%|
 |Tuesday                  |76 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.42%|
-|Wednesday                |103 commits         |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.89%|
+|Wednesday                |102 commits         |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.69%|
 |Thursday                 |64 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.98%|
 |Friday                   |49 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.94%|
 |Saturday                 |69 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.0%|
