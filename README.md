@@ -33,11 +33,10 @@
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,161 Contributions in year 2021**
+<br />
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=th3c0d3br34ker&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=6&margin-w=25&margin-h=15&theme=dracula" />
 
-<!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
